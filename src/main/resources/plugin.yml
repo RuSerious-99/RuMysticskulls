@@ -1,0 +1,6 @@
+name: MyssticSkulls
+version: '${project.version}'
+main: com.ruserious99.mysticskulls.MysticSkulls
+api-version: 1.18
+commands:
+  skull:
